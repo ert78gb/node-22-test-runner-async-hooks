@@ -1,0 +1,16 @@
+{
+  "name": "22-test-runner-async-hooks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "author": "Robert Kiss <ert78gb@gmail.com>",
+  "license": "MIT",
+  "description": ""
+}
